@@ -9,7 +9,6 @@
 
 [<img align="left" alt="A-Taci | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
-https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/dart/dart.png
 <br />
 
 ### Languages and Tools:
