@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ## I'm a Developer and Gamer!
-- 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working on something cool and learn everything
+
 
 
 ### Contact to A-Taci:
